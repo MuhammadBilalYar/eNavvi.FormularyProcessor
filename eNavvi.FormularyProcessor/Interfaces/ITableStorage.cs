@@ -1,6 +1,4 @@
 ﻿using eNavvi.FormularyProcessor.Entities;
-using eNavvi.FormularyProcessor.Models;
-using System.Collections.Generic;
 
 namespace eNavvi.FormularyProcessor.Interfaces
 {

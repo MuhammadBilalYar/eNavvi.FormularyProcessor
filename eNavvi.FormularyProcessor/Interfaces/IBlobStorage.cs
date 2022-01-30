@@ -1,10 +1,4 @@
 ﻿using eNavvi.FormularyProcessor.Models;
-using Microsoft.Extensions.Logging;
-
-using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace eNavvi.FormularyProcessor.Interfaces
 {

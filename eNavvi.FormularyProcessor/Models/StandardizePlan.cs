@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace eNavvi.FormularyProcessor.Models
+﻿namespace eNavvi.FormularyProcessor.Models
 {
     public class StandardizePlan
     {

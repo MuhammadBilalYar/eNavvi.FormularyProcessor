@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace eNavvi.FormularyProcessor.Utilities
+﻿namespace eNavvi.FormularyProcessor.Utilities
 {
     public class Constants
     {

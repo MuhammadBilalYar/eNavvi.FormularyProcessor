@@ -1,12 +1,6 @@
 ﻿using eNavvi.FormularyProcessor.Interfaces;
 using eNavvi.FormularyProcessor.Models.RxNorm;
 using Serilog;
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace eNavvi.FormularyProcessor.Services
 {

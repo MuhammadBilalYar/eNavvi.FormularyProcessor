@@ -1,13 +1,6 @@
 ﻿using eNavvi.FormularyProcessor.Data;
 using eNavvi.FormularyProcessor.Entities;
 using eNavvi.FormularyProcessor.Interfaces;
-using eNavvi.FormularyProcessor.Models;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.Options;
-
-using System;
-using System.Collections.Generic;
-using System.Linq;
 
 namespace eNavvi.FormularyProcessor.Services
 {

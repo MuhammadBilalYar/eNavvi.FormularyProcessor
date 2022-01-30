@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace eNavvi.FormularyProcessor.Models.RxNorm
+﻿namespace eNavvi.FormularyProcessor.Models.RxNorm
 {
     class RxNormSat
     {

@@ -8,12 +8,6 @@ using Microsoft.Extensions.Logging;
 
 using Newtonsoft.Json;
 
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Threading.Tasks;
-
 namespace eNavvi.FormularyProcessor.Services
 {
     public class BlobStorageService : IBlobStorage

@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace eNavvi.FormularyProcessor.Models
+﻿namespace eNavvi.FormularyProcessor.Models
 {
     public class RelatedInformation
     {

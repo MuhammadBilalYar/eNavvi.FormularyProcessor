@@ -1,16 +1,10 @@
 ﻿using eNavvi.FormularyProcessor.Models;
 
-using Microsoft.Extensions.Logging;
-
 using Newtonsoft.Json.Linq;
 
 using RestSharp;
 using Serilog;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Net;
-using System.Threading;
 
 namespace eNavvi.FormularyProcessor.Utilities
 {
